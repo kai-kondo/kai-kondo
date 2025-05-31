@@ -9,13 +9,13 @@
   <a href="https://github.com/kai-kondo">
     <img src="https://img.shields.io/github/followers/kai-kondo?label=GitHub&style=social" />
   </a>
-  <a href="(https://x.com/kai_1173_)">
+  <a href="https://x.com/kai_1173">
     <img src="https://img.shields.io/badge/X-1DA1F2?style=flat&logo=x&logoColor=white" />
   </a>
-  <a href="(https://www.facebook.com/profile.php?id=100074585801538&locale=ja_JP)">
+  <a href="https://www.facebook.com/profile.php?id=100074585801538&locale=ja_JP">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
   </a>
-  <a href="(https://www.linkedin.com/in/kai-hayamizu-21b63b306/)">
+  <a href="https://www.linkedin.com/in/kai-hayamizu-21b63b306/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </p>
