@@ -104,7 +104,7 @@ I aim to contribute with care, curiosity, and creativity.
 ## 📫 Contact
 
 - 🌐 [GitHub](https://github.com/kai-kondo)
-- 📝 note: [note](https://note.com/kai_1173)
+- 📝 [note](https://note.com/kai_1173)
 - 🐦 [X (Twitter)](https://x.com/kai_1173_)
 - 📘 [Facebook](https://www.facebook.com/profile.php?id=100074585801538&locale=ja_JP)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/kai-hayamizu-21b63b306/)
