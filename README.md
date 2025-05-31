@@ -9,7 +9,7 @@
   <a href="https://github.com/kai-kondo">
     <img src="https://img.shields.io/github/followers/kai-kondo?label=GitHub&style=social" />
   </a>
-  <a href="https://x.com/kai_1173">
+  <a href="https://x.com/kai_1173_">
     <img src="https://img.shields.io/badge/X-1DA1F2?style=flat&logo=x&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100074585801538&locale=ja_JP">
