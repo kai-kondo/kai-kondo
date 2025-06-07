@@ -22,52 +22,6 @@
 
 ---
 
-## 💼 Project Experience
-
-### 🛻 Delivery Management SaaS (In-house)
-**Duration**: Jan 2024 – Present  
-**Tech**: Ruby on Rails / AWS / Docker / MacOS  
-- Developed features like user limits by plan and delivery location management  
-- Built shift bulk operations with performance-aware implementations  
-- Focused on system consistency using `insert_all`, Turbo, and transactions
-
----
-
-### 🌐 Landing Page Renewal (Solo Project)
-**Duration**: Jun 2024 – Present  
-**Tech**: Next.js / Figma / Cloudflare  
-- Led UI/UX design, implementation, and deployment  
-- Optimized for SEO, responsiveness, and conversion  
-- Handled the entire lifecycle from planning to release
-
----
-
-### ⚙️ DXF File Processing App (Contract)
-**Duration**: Jan 2025 – May 2025  
-**Tech**: C# / .NET Framework / Windows  
-- Built DXF/TXT file monitoring & processing modules from scratch  
-- Ensured robust error handling and user-friendly interface  
-- Took full responsibility from design to final delivery
-
----
-
-### 🌊 Surfer-focused Web App (Contract)
-**Duration**: Apr 2025 – Present  
-**Tech**: Next.js / Firebase  
-- Implemented SNS sharing (X, Facebook, LINE)  
-- Improved UI and fixed bugs for better UX  
-- Collaborated on continuous product improvement
-
----
-
-### 📡 Mobile Base Station Monitoring
-**Duration**: Feb 2021 – Mar 2021  
-**Tech**: Linux / Windows  
-- Real-time alert monitoring and first-level incident response  
-- Investigated logs and escalated critical issues
-
----
-
 ## 🛠 Tech Stack
 
 | Category       | Tools & Technologies                          |
@@ -79,10 +33,54 @@
 
 ---
 
-## 📈 GitHub Stats
+## 💼 Project Experience
+
+### 🛻 Delivery Management SaaS (In-house)
+**Tech**: Ruby on Rails / AWS / Docker  
+- Implemented plan-based feature limits and delivery area management  
+- Built bulk shift registration with Turbo & `insert_all`  
+- Focused on system performance and consistency
+
+### 🌐 Landing Page Renewal
+**Tech**: Next.js / Figma / Cloudflare  
+- Led UI/UX design and coding  
+- Fully SEO-optimized and mobile-first design  
+- Delivered as a solo end-to-end project
+
+### ⚙️ DXF File Processing App
+**Tech**: C# / .NET Framework  
+- Designed file watcher & processor  
+- Ensured robust error handling and usability  
+- Delivered complete solution under contract
+
+### 🌊 Surfer-focused Web App
+**Tech**: Next.js / Firebase  
+- Implemented SNS share (X, Facebook, LINE)  
+- Improved design & UX with continuous releases
+
+---
+
+## 🏆 GitHub Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kai-kondo&theme=flat&column=6&margin-w=10" />
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kai-kondo&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kai-kondo&layout=compact&theme=default" />
+</p>
+
+---
+
+## 🌱 Contribution Graph
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/kai-kondo" alt="GitHub Contribution Graph" />
 </p>
 
 ---
@@ -93,9 +91,9 @@ I'm passionate about delivering value through clean, maintainable code and thoug
 I love working across the stack, solving real-world problems with scalable solutions and user-focused development.
 
 💡 Whether it's:
-- Building flexible, robust features in Rails  
-- Designing efficient file-processing workflows in C#  
-- Crafting UX-optimized pages in Next.js  
+- Building robust features in Rails  
+- Designing efficient workflows in C#  
+- Crafting beautiful UIs in Next.js  
 
 I aim to contribute with care, curiosity, and creativity.
 
