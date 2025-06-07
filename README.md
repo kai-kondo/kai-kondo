@@ -68,7 +68,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kai-kondo&show_icons=true&theme=default" />
